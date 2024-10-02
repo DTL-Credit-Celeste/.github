@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Bonjour
 ---
 
-Bienvenue sur **Crédit-Céleste**, un projet dédié à la gestion de l'acquisition, du stockage et de la vente de voitures d'occasion pour les garages. Ce dépôt contient tout le code, la documentation, et les ressources liées au développement de l'application.
+Bienvenue sur **TLAD Crédit Céleste**, un projet dédié à la gestion de l'acquisition, du stockage et de la vente de voitures d'occasion pour les garages. Ce dépôt contient tout le code, la documentation, et les ressources liées au développement de l'application.
 
 ### 🌟 Vue d'ensemble du projet
 
